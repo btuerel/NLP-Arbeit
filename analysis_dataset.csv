@@ -1,0 +1,365 @@
+participant_id,word,word_article,gender,age,last_degree,last_degree_parents,language_group,home_language,social_language,academic_language,english_level,professional_english,language_family
+P01,Laptop,der,f,22,Bachelor,No degree,Kurdish,more L1,more german,2-3 days/week,4 good ,okay,Indo-European
+P01,Call,der,f,22,Bachelor,No degree,Kurdish,more L1,more german,2-3 days/week,4 good ,okay,Indo-European
+P01,Meeting,das,f,22,Bachelor,No degree,Kurdish,more L1,more german,2-3 days/week,4 good ,okay,Indo-European
+P01,Update,das,f,22,Bachelor,No degree,Kurdish,more L1,more german,2-3 days/week,4 good ,okay,Indo-European
+P01,Feedback,das,f,22,Bachelor,No degree,Kurdish,more L1,more german,2-3 days/week,4 good ,okay,Indo-European
+P01,Influencer,der,f,22,Bachelor,No degree,Kurdish,more L1,more german,2-3 days/week,4 good ,okay,Indo-European
+P01,Content,der,f,22,Bachelor,No degree,Kurdish,more L1,more german,2-3 days/week,4 good ,okay,Indo-European
+P01,Design,das,f,22,Bachelor,No degree,Kurdish,more L1,more german,2-3 days/week,4 good ,okay,Indo-European
+P01,Tool,das,f,22,Bachelor,No degree,Kurdish,more L1,more german,2-3 days/week,4 good ,okay,Indo-European
+P01,Workshop,der,f,22,Bachelor,No degree,Kurdish,more L1,more german,2-3 days/week,4 good ,okay,Indo-European
+P01,Agency,die,f,22,Bachelor,No degree,Kurdish,more L1,more german,2-3 days/week,4 good ,okay,Indo-European
+P01,Agreement,das,f,22,Bachelor,No degree,Kurdish,more L1,more german,2-3 days/week,4 good ,okay,Indo-European
+P01,Mockup,das,f,22,Bachelor,No degree,Kurdish,more L1,more german,2-3 days/week,4 good ,okay,Indo-European
+P02,Laptop,der,f,23,Abitur,,Turkish,more L1,more german,less than 2 days/week,4 good ,okay,Turkic
+P02,Call,der,f,23,Abitur,,Turkish,more L1,more german,less than 2 days/week,4 good ,okay,Turkic
+P02,Meeting,das,f,23,Abitur,,Turkish,more L1,more german,less than 2 days/week,4 good ,okay,Turkic
+P02,Update,das,f,23,Abitur,,Turkish,more L1,more german,less than 2 days/week,4 good ,okay,Turkic
+P02,Feedback,das,f,23,Abitur,,Turkish,more L1,more german,less than 2 days/week,4 good ,okay,Turkic
+P02,Influencer,der,f,23,Abitur,,Turkish,more L1,more german,less than 2 days/week,4 good ,okay,Turkic
+P02,Content,der,f,23,Abitur,,Turkish,more L1,more german,less than 2 days/week,4 good ,okay,Turkic
+P02,Design,das,f,23,Abitur,,Turkish,more L1,more german,less than 2 days/week,4 good ,okay,Turkic
+P02,Tool,der,f,23,Abitur,,Turkish,more L1,more german,less than 2 days/week,4 good ,okay,Turkic
+P02,Workshop,der,f,23,Abitur,,Turkish,more L1,more german,less than 2 days/week,4 good ,okay,Turkic
+P02,Agency,die,f,23,Abitur,,Turkish,more L1,more german,less than 2 days/week,4 good ,okay,Turkic
+P02,Agreement,der,f,23,Abitur,,Turkish,more L1,more german,less than 2 days/week,4 good ,okay,Turkic
+P02,Mockup,das,f,23,Abitur,,Turkish,more L1,more german,less than 2 days/week,4 good ,okay,Turkic
+P03,Laptop,der,m,40,Fachabitur,,Kurdish,equally both,more german,less than 2 days/week,3 okay,okay,Indo-European
+P03,Call,der,m,40,Fachabitur,,Kurdish,equally both,more german,less than 2 days/week,3 okay,okay,Indo-European
+P03,Meeting,das,m,40,Fachabitur,,Kurdish,equally both,more german,less than 2 days/week,3 okay,okay,Indo-European
+P03,Update,das,m,40,Fachabitur,,Kurdish,equally both,more german,less than 2 days/week,3 okay,okay,Indo-European
+P03,Feedback,das,m,40,Fachabitur,,Kurdish,equally both,more german,less than 2 days/week,3 okay,okay,Indo-European
+P03,Influencer,der,m,40,Fachabitur,,Kurdish,equally both,more german,less than 2 days/week,3 okay,okay,Indo-European
+P03,Content,der,m,40,Fachabitur,,Kurdish,equally both,more german,less than 2 days/week,3 okay,okay,Indo-European
+P03,Design,der,m,40,Fachabitur,,Kurdish,equally both,more german,less than 2 days/week,3 okay,okay,Indo-European
+P03,Tool,der,m,40,Fachabitur,,Kurdish,equally both,more german,less than 2 days/week,3 okay,okay,Indo-European
+P03,Workshop,das,m,40,Fachabitur,,Kurdish,equally both,more german,less than 2 days/week,3 okay,okay,Indo-European
+P03,Agency,die,m,40,Fachabitur,,Kurdish,equally both,more german,less than 2 days/week,3 okay,okay,Indo-European
+P03,Agreement,das,m,40,Fachabitur,,Kurdish,equally both,more german,less than 2 days/week,3 okay,okay,Indo-European
+P03,Mockup,das,m,40,Fachabitur,,Kurdish,equally both,more german,less than 2 days/week,3 okay,okay,Indo-European
+P04,Laptop,der,f,21,Abitur,Master,English,more german,equally both,5 days/week,5 very good,very good,Germanic
+P04,Call,der,f,21,Abitur,Master,English,more german,equally both,5 days/week,5 very good,very good,Germanic
+P04,Meeting,das,f,21,Abitur,Master,English,more german,equally both,5 days/week,5 very good,very good,Germanic
+P04,Update,das,f,21,Abitur,Master,English,more german,equally both,5 days/week,5 very good,very good,Germanic
+P04,Feedback,das,f,21,Abitur,Master,English,more german,equally both,5 days/week,5 very good,very good,Germanic
+P04,Influencer,der,f,21,Abitur,Master,English,more german,equally both,5 days/week,5 very good,very good,Germanic
+P04,Content,der,f,21,Abitur,Master,English,more german,equally both,5 days/week,5 very good,very good,Germanic
+P04,Design,das,f,21,Abitur,Master,English,more german,equally both,5 days/week,5 very good,very good,Germanic
+P04,Tool,das,f,21,Abitur,Master,English,more german,equally both,5 days/week,5 very good,very good,Germanic
+P04,Workshop,der,f,21,Abitur,Master,English,more german,equally both,5 days/week,5 very good,very good,Germanic
+P04,Agency,die,f,21,Abitur,Master,English,more german,equally both,5 days/week,5 very good,very good,Germanic
+P04,Agreement,das,f,21,Abitur,Master,English,more german,equally both,5 days/week,5 very good,very good,Germanic
+P04,Mockup,das,f,21,Abitur,Master,English,more german,equally both,5 days/week,5 very good,very good,Germanic
+P05,Laptop,der,d,29,Bachelor,Bachelor,Dutch,only german ,more german,2-3 days/week,5 very good,very good,Germanic
+P05,Call,der,d,29,Bachelor,Bachelor,Dutch,only german ,more german,2-3 days/week,5 very good,very good,Germanic
+P05,Meeting,das,d,29,Bachelor,Bachelor,Dutch,only german ,more german,2-3 days/week,5 very good,very good,Germanic
+P05,Update,das,d,29,Bachelor,Bachelor,Dutch,only german ,more german,2-3 days/week,5 very good,very good,Germanic
+P05,Feedback,das,d,29,Bachelor,Bachelor,Dutch,only german ,more german,2-3 days/week,5 very good,very good,Germanic
+P05,Influencer,der,d,29,Bachelor,Bachelor,Dutch,only german ,more german,2-3 days/week,5 very good,very good,Germanic
+P05,Content,das,d,29,Bachelor,Bachelor,Dutch,only german ,more german,2-3 days/week,5 very good,very good,Germanic
+P05,Design,das,d,29,Bachelor,Bachelor,Dutch,only german ,more german,2-3 days/week,5 very good,very good,Germanic
+P05,Tool,das,d,29,Bachelor,Bachelor,Dutch,only german ,more german,2-3 days/week,5 very good,very good,Germanic
+P05,Workshop,der,d,29,Bachelor,Bachelor,Dutch,only german ,more german,2-3 days/week,5 very good,very good,Germanic
+P05,Agency,die,d,29,Bachelor,Bachelor,Dutch,only german ,more german,2-3 days/week,5 very good,very good,Germanic
+P05,Agreement,das,d,29,Bachelor,Bachelor,Dutch,only german ,more german,2-3 days/week,5 very good,very good,Germanic
+P05,Mockup,das,d,29,Bachelor,Bachelor,Dutch,only german ,more german,2-3 days/week,5 very good,very good,Germanic
+P06,Laptop,der,f,25,Bachelor,Hauptschulabschluss/ ND,Pashto,equally both,more german,less than 2 days/week,4 good ,very good,Indo-European
+P06,Call,der,f,25,Bachelor,Hauptschulabschluss/ ND,Pashto,equally both,more german,less than 2 days/week,4 good ,very good,Indo-European
+P06,Meeting,das,f,25,Bachelor,Hauptschulabschluss/ ND,Pashto,equally both,more german,less than 2 days/week,4 good ,very good,Indo-European
+P06,Update,das,f,25,Bachelor,Hauptschulabschluss/ ND,Pashto,equally both,more german,less than 2 days/week,4 good ,very good,Indo-European
+P06,Feedback,das,f,25,Bachelor,Hauptschulabschluss/ ND,Pashto,equally both,more german,less than 2 days/week,4 good ,very good,Indo-European
+P06,Influencer,der,f,25,Bachelor,Hauptschulabschluss/ ND,Pashto,equally both,more german,less than 2 days/week,4 good ,very good,Indo-European
+P06,Content,der,f,25,Bachelor,Hauptschulabschluss/ ND,Pashto,equally both,more german,less than 2 days/week,4 good ,very good,Indo-European
+P06,Design,das,f,25,Bachelor,Hauptschulabschluss/ ND,Pashto,equally both,more german,less than 2 days/week,4 good ,very good,Indo-European
+P06,Tool,das,f,25,Bachelor,Hauptschulabschluss/ ND,Pashto,equally both,more german,less than 2 days/week,4 good ,very good,Indo-European
+P06,Workshop,der,f,25,Bachelor,Hauptschulabschluss/ ND,Pashto,equally both,more german,less than 2 days/week,4 good ,very good,Indo-European
+P06,Agency,die,f,25,Bachelor,Hauptschulabschluss/ ND,Pashto,equally both,more german,less than 2 days/week,4 good ,very good,Indo-European
+P06,Agreement,das,f,25,Bachelor,Hauptschulabschluss/ ND,Pashto,equally both,more german,less than 2 days/week,4 good ,very good,Indo-European
+P06,Mockup,das,f,25,Bachelor,Hauptschulabschluss/ ND,Pashto,equally both,more german,less than 2 days/week,4 good ,very good,Indo-European
+P07,Laptop,das,f,21,Abitur,,Turkish,more german,equally both,less than 2 days/week,3 okay,okay,Turkic
+P07,Call,der,f,21,Abitur,,Turkish,more german,equally both,less than 2 days/week,3 okay,okay,Turkic
+P07,Meeting,das,f,21,Abitur,,Turkish,more german,equally both,less than 2 days/week,3 okay,okay,Turkic
+P07,Update,das,f,21,Abitur,,Turkish,more german,equally both,less than 2 days/week,3 okay,okay,Turkic
+P07,Feedback,das,f,21,Abitur,,Turkish,more german,equally both,less than 2 days/week,3 okay,okay,Turkic
+P07,Influencer,der,f,21,Abitur,,Turkish,more german,equally both,less than 2 days/week,3 okay,okay,Turkic
+P07,Content,das,f,21,Abitur,,Turkish,more german,equally both,less than 2 days/week,3 okay,okay,Turkic
+P07,Design,das,f,21,Abitur,,Turkish,more german,equally both,less than 2 days/week,3 okay,okay,Turkic
+P07,Tool,das,f,21,Abitur,,Turkish,more german,equally both,less than 2 days/week,3 okay,okay,Turkic
+P07,Workshop,der,f,21,Abitur,,Turkish,more german,equally both,less than 2 days/week,3 okay,okay,Turkic
+P07,Agency,die,f,21,Abitur,,Turkish,more german,equally both,less than 2 days/week,3 okay,okay,Turkic
+P07,Agreement,das,f,21,Abitur,,Turkish,more german,equally both,less than 2 days/week,3 okay,okay,Turkic
+P07,Mockup,das,f,21,Abitur,,Turkish,more german,equally both,less than 2 days/week,3 okay,okay,Turkic
+P08,Laptop,das,f,22,Abitur,,Arabic,equally both,more german,less than 2 days/week,5 very good,very good,Afro-Asiatic
+P08,Call,der,f,22,Abitur,,Arabic,equally both,more german,less than 2 days/week,5 very good,very good,Afro-Asiatic
+P08,Meeting,das,f,22,Abitur,,Arabic,equally both,more german,less than 2 days/week,5 very good,very good,Afro-Asiatic
+P08,Update,das,f,22,Abitur,,Arabic,equally both,more german,less than 2 days/week,5 very good,very good,Afro-Asiatic
+P08,Feedback,das,f,22,Abitur,,Arabic,equally both,more german,less than 2 days/week,5 very good,very good,Afro-Asiatic
+P08,Influencer,der,f,22,Abitur,,Arabic,equally both,more german,less than 2 days/week,5 very good,very good,Afro-Asiatic
+P08,Content,der,f,22,Abitur,,Arabic,equally both,more german,less than 2 days/week,5 very good,very good,Afro-Asiatic
+P08,Design,das,f,22,Abitur,,Arabic,equally both,more german,less than 2 days/week,5 very good,very good,Afro-Asiatic
+P08,Tool,das,f,22,Abitur,,Arabic,equally both,more german,less than 2 days/week,5 very good,very good,Afro-Asiatic
+P08,Workshop,der,f,22,Abitur,,Arabic,equally both,more german,less than 2 days/week,5 very good,very good,Afro-Asiatic
+P08,Agency,die,f,22,Abitur,,Arabic,equally both,more german,less than 2 days/week,5 very good,very good,Afro-Asiatic
+P08,Agreement,das,f,22,Abitur,,Arabic,equally both,more german,less than 2 days/week,5 very good,very good,Afro-Asiatic
+P08,Mockup,das,f,22,Abitur,,Arabic,equally both,more german,less than 2 days/week,5 very good,very good,Afro-Asiatic
+P09,Laptop,der,m,22,Fachabitur,,German,only L1,more L1,2-3 days/week,4 good ,very good,Germanic
+P09,Call,der,m,22,Fachabitur,,German,only L1,more L1,2-3 days/week,4 good ,very good,Germanic
+P09,Meeting,das,m,22,Fachabitur,,German,only L1,more L1,2-3 days/week,4 good ,very good,Germanic
+P09,Update,das,m,22,Fachabitur,,German,only L1,more L1,2-3 days/week,4 good ,very good,Germanic
+P09,Feedback,das,m,22,Fachabitur,,German,only L1,more L1,2-3 days/week,4 good ,very good,Germanic
+P09,Influencer,der,m,22,Fachabitur,,German,only L1,more L1,2-3 days/week,4 good ,very good,Germanic
+P09,Content,der,m,22,Fachabitur,,German,only L1,more L1,2-3 days/week,4 good ,very good,Germanic
+P09,Design,das,m,22,Fachabitur,,German,only L1,more L1,2-3 days/week,4 good ,very good,Germanic
+P09,Tool,das,m,22,Fachabitur,,German,only L1,more L1,2-3 days/week,4 good ,very good,Germanic
+P09,Workshop,der,m,22,Fachabitur,,German,only L1,more L1,2-3 days/week,4 good ,very good,Germanic
+P09,Agency,die,m,22,Fachabitur,,German,only L1,more L1,2-3 days/week,4 good ,very good,Germanic
+P09,Agreement,das,m,22,Fachabitur,,German,only L1,more L1,2-3 days/week,4 good ,very good,Germanic
+P09,Mockup,das,m,22,Fachabitur,,German,only L1,more L1,2-3 days/week,4 good ,very good,Germanic
+P10,Laptop,der,f,20,Abitur,Fachabitur,German,only L1,more L1,less than 2 days/week,4 good ,okay,Germanic
+P10,Call,der,f,20,Abitur,Fachabitur,German,only L1,more L1,less than 2 days/week,4 good ,okay,Germanic
+P10,Meeting,das,f,20,Abitur,Fachabitur,German,only L1,more L1,less than 2 days/week,4 good ,okay,Germanic
+P10,Update,das,f,20,Abitur,Fachabitur,German,only L1,more L1,less than 2 days/week,4 good ,okay,Germanic
+P10,Feedback,das,f,20,Abitur,Fachabitur,German,only L1,more L1,less than 2 days/week,4 good ,okay,Germanic
+P10,Influencer,der,f,20,Abitur,Fachabitur,German,only L1,more L1,less than 2 days/week,4 good ,okay,Germanic
+P10,Content,der,f,20,Abitur,Fachabitur,German,only L1,more L1,less than 2 days/week,4 good ,okay,Germanic
+P10,Design,das,f,20,Abitur,Fachabitur,German,only L1,more L1,less than 2 days/week,4 good ,okay,Germanic
+P10,Tool,das,f,20,Abitur,Fachabitur,German,only L1,more L1,less than 2 days/week,4 good ,okay,Germanic
+P10,Workshop,der,f,20,Abitur,Fachabitur,German,only L1,more L1,less than 2 days/week,4 good ,okay,Germanic
+P10,Agency,die,f,20,Abitur,Fachabitur,German,only L1,more L1,less than 2 days/week,4 good ,okay,Germanic
+P10,Agreement,das,f,20,Abitur,Fachabitur,German,only L1,more L1,less than 2 days/week,4 good ,okay,Germanic
+P10,Mockup,das,f,20,Abitur,Fachabitur,German,only L1,more L1,less than 2 days/week,4 good ,okay,Germanic
+P11,Laptop,der,f,19,Abitur,,Greek,more L1,more german,2-3 days/week,5 very good,very good,Indo-European
+P11,Call,der,f,19,Abitur,,Greek,more L1,more german,2-3 days/week,5 very good,very good,Indo-European
+P11,Meeting,das,f,19,Abitur,,Greek,more L1,more german,2-3 days/week,5 very good,very good,Indo-European
+P11,Update,das,f,19,Abitur,,Greek,more L1,more german,2-3 days/week,5 very good,very good,Indo-European
+P11,Feedback,das,f,19,Abitur,,Greek,more L1,more german,2-3 days/week,5 very good,very good,Indo-European
+P11,Influencer,der,f,19,Abitur,,Greek,more L1,more german,2-3 days/week,5 very good,very good,Indo-European
+P11,Content,der,f,19,Abitur,,Greek,more L1,more german,2-3 days/week,5 very good,very good,Indo-European
+P11,Design,das,f,19,Abitur,,Greek,more L1,more german,2-3 days/week,5 very good,very good,Indo-European
+P11,Tool,das,f,19,Abitur,,Greek,more L1,more german,2-3 days/week,5 very good,very good,Indo-European
+P11,Workshop,der,f,19,Abitur,,Greek,more L1,more german,2-3 days/week,5 very good,very good,Indo-European
+P11,Agency,die,f,19,Abitur,,Greek,more L1,more german,2-3 days/week,5 very good,very good,Indo-European
+P11,Agreement,das,f,19,Abitur,,Greek,more L1,more german,2-3 days/week,5 very good,very good,Indo-European
+P11,Mockup,der,f,19,Abitur,,Greek,more L1,more german,2-3 days/week,5 very good,very good,Indo-European
+P12,Laptop,der,f,19,Abitur,Realschulabschluss,Russian,equally both,more german,less than 2 days/week,4 good ,okay,Indo-European
+P12,Call,der,f,19,Abitur,Realschulabschluss,Russian,equally both,more german,less than 2 days/week,4 good ,okay,Indo-European
+P12,Meeting,das,f,19,Abitur,Realschulabschluss,Russian,equally both,more german,less than 2 days/week,4 good ,okay,Indo-European
+P12,Update,das,f,19,Abitur,Realschulabschluss,Russian,equally both,more german,less than 2 days/week,4 good ,okay,Indo-European
+P12,Feedback,das,f,19,Abitur,Realschulabschluss,Russian,equally both,more german,less than 2 days/week,4 good ,okay,Indo-European
+P12,Influencer,der,f,19,Abitur,Realschulabschluss,Russian,equally both,more german,less than 2 days/week,4 good ,okay,Indo-European
+P12,Content,der,f,19,Abitur,Realschulabschluss,Russian,equally both,more german,less than 2 days/week,4 good ,okay,Indo-European
+P12,Design,das,f,19,Abitur,Realschulabschluss,Russian,equally both,more german,less than 2 days/week,4 good ,okay,Indo-European
+P12,Tool,das,f,19,Abitur,Realschulabschluss,Russian,equally both,more german,less than 2 days/week,4 good ,okay,Indo-European
+P12,Workshop,der,f,19,Abitur,Realschulabschluss,Russian,equally both,more german,less than 2 days/week,4 good ,okay,Indo-European
+P12,Agency,die,f,19,Abitur,Realschulabschluss,Russian,equally both,more german,less than 2 days/week,4 good ,okay,Indo-European
+P12,Agreement,das,f,19,Abitur,Realschulabschluss,Russian,equally both,more german,less than 2 days/week,4 good ,okay,Indo-European
+P12,Mockup,das,f,19,Abitur,Realschulabschluss,Russian,equally both,more german,less than 2 days/week,4 good ,okay,Indo-European
+P13,Laptop,der,f,20,Abitur,Abitur,German,only L1,more L1,2-3 days/week,4 good ,okay,Germanic
+P13,Call,der,f,20,Abitur,Abitur,German,only L1,more L1,2-3 days/week,4 good ,okay,Germanic
+P13,Meeting,das,f,20,Abitur,Abitur,German,only L1,more L1,2-3 days/week,4 good ,okay,Germanic
+P13,Update,das,f,20,Abitur,Abitur,German,only L1,more L1,2-3 days/week,4 good ,okay,Germanic
+P13,Feedback,das,f,20,Abitur,Abitur,German,only L1,more L1,2-3 days/week,4 good ,okay,Germanic
+P13,Influencer,der,f,20,Abitur,Abitur,German,only L1,more L1,2-3 days/week,4 good ,okay,Germanic
+P13,Content,der,f,20,Abitur,Abitur,German,only L1,more L1,2-3 days/week,4 good ,okay,Germanic
+P13,Design,das,f,20,Abitur,Abitur,German,only L1,more L1,2-3 days/week,4 good ,okay,Germanic
+P13,Tool,das,f,20,Abitur,Abitur,German,only L1,more L1,2-3 days/week,4 good ,okay,Germanic
+P13,Workshop,der,f,20,Abitur,Abitur,German,only L1,more L1,2-3 days/week,4 good ,okay,Germanic
+P13,Agency,die,f,20,Abitur,Abitur,German,only L1,more L1,2-3 days/week,4 good ,okay,Germanic
+P13,Agreement,das,f,20,Abitur,Abitur,German,only L1,more L1,2-3 days/week,4 good ,okay,Germanic
+P13,Mockup,das,f,20,Abitur,Abitur,German,only L1,more L1,2-3 days/week,4 good ,okay,Germanic
+P14,Laptop,der,m,24,Abitur,Bachelor,English,equally both,equally both,2-3 days/week,5 very good,very good,Germanic
+P14,Call,der,m,24,Abitur,Bachelor,English,equally both,equally both,2-3 days/week,5 very good,very good,Germanic
+P14,Meeting,das,m,24,Abitur,Bachelor,English,equally both,equally both,2-3 days/week,5 very good,very good,Germanic
+P14,Update,das,m,24,Abitur,Bachelor,English,equally both,equally both,2-3 days/week,5 very good,very good,Germanic
+P14,Feedback,das,m,24,Abitur,Bachelor,English,equally both,equally both,2-3 days/week,5 very good,very good,Germanic
+P14,Influencer,der,m,24,Abitur,Bachelor,English,equally both,equally both,2-3 days/week,5 very good,very good,Germanic
+P14,Content,der,m,24,Abitur,Bachelor,English,equally both,equally both,2-3 days/week,5 very good,very good,Germanic
+P14,Design,das,m,24,Abitur,Bachelor,English,equally both,equally both,2-3 days/week,5 very good,very good,Germanic
+P14,Tool,das,m,24,Abitur,Bachelor,English,equally both,equally both,2-3 days/week,5 very good,very good,Germanic
+P14,Workshop,der,m,24,Abitur,Bachelor,English,equally both,equally both,2-3 days/week,5 very good,very good,Germanic
+P14,Agency,die,m,24,Abitur,Bachelor,English,equally both,equally both,2-3 days/week,5 very good,very good,Germanic
+P14,Agreement,das,m,24,Abitur,Bachelor,English,equally both,equally both,2-3 days/week,5 very good,very good,Germanic
+P14,Mockup,der,m,24,Abitur,Bachelor,English,equally both,equally both,2-3 days/week,5 very good,very good,Germanic
+P15,Laptop,das,f,20,Abitur,Diplom,Amharic,more L1,more german,less than 2 days/week,5 very good,very good,Afro-Asiatic
+P15,Call,der,f,20,Abitur,Diplom,Amharic,more L1,more german,less than 2 days/week,5 very good,very good,Afro-Asiatic
+P15,Meeting,das,f,20,Abitur,Diplom,Amharic,more L1,more german,less than 2 days/week,5 very good,very good,Afro-Asiatic
+P15,Update,das,f,20,Abitur,Diplom,Amharic,more L1,more german,less than 2 days/week,5 very good,very good,Afro-Asiatic
+P15,Feedback,das,f,20,Abitur,Diplom,Amharic,more L1,more german,less than 2 days/week,5 very good,very good,Afro-Asiatic
+P15,Influencer,der,f,20,Abitur,Diplom,Amharic,more L1,more german,less than 2 days/week,5 very good,very good,Afro-Asiatic
+P15,Content,der,f,20,Abitur,Diplom,Amharic,more L1,more german,less than 2 days/week,5 very good,very good,Afro-Asiatic
+P15,Design,das,f,20,Abitur,Diplom,Amharic,more L1,more german,less than 2 days/week,5 very good,very good,Afro-Asiatic
+P15,Tool,das,f,20,Abitur,Diplom,Amharic,more L1,more german,less than 2 days/week,5 very good,very good,Afro-Asiatic
+P15,Workshop,der,f,20,Abitur,Diplom,Amharic,more L1,more german,less than 2 days/week,5 very good,very good,Afro-Asiatic
+P15,Agency,die,f,20,Abitur,Diplom,Amharic,more L1,more german,less than 2 days/week,5 very good,very good,Afro-Asiatic
+P15,Agreement,das,f,20,Abitur,Diplom,Amharic,more L1,more german,less than 2 days/week,5 very good,very good,Afro-Asiatic
+P15,Mockup,der,f,20,Abitur,Diplom,Amharic,more L1,more german,less than 2 days/week,5 very good,very good,Afro-Asiatic
+P16,Laptop,das,f,23,Abitur,Bachelor/ Handelsschule,Turkish,equally both,equally both,less than 2 days/week,4 good ,okay,Turkic
+P16,Call,der,f,23,Abitur,Bachelor/ Handelsschule,Turkish,equally both,equally both,less than 2 days/week,4 good ,okay,Turkic
+P16,Meeting,das,f,23,Abitur,Bachelor/ Handelsschule,Turkish,equally both,equally both,less than 2 days/week,4 good ,okay,Turkic
+P16,Update,das,f,23,Abitur,Bachelor/ Handelsschule,Turkish,equally both,equally both,less than 2 days/week,4 good ,okay,Turkic
+P16,Feedback,das,f,23,Abitur,Bachelor/ Handelsschule,Turkish,equally both,equally both,less than 2 days/week,4 good ,okay,Turkic
+P16,Influencer,der,f,23,Abitur,Bachelor/ Handelsschule,Turkish,equally both,equally both,less than 2 days/week,4 good ,okay,Turkic
+P16,Content,das,f,23,Abitur,Bachelor/ Handelsschule,Turkish,equally both,equally both,less than 2 days/week,4 good ,okay,Turkic
+P16,Design,das,f,23,Abitur,Bachelor/ Handelsschule,Turkish,equally both,equally both,less than 2 days/week,4 good ,okay,Turkic
+P16,Tool,das,f,23,Abitur,Bachelor/ Handelsschule,Turkish,equally both,equally both,less than 2 days/week,4 good ,okay,Turkic
+P16,Workshop,das,f,23,Abitur,Bachelor/ Handelsschule,Turkish,equally both,equally both,less than 2 days/week,4 good ,okay,Turkic
+P16,Agency,die,f,23,Abitur,Bachelor/ Handelsschule,Turkish,equally both,equally both,less than 2 days/week,4 good ,okay,Turkic
+P16,Agreement,das,f,23,Abitur,Bachelor/ Handelsschule,Turkish,equally both,equally both,less than 2 days/week,4 good ,okay,Turkic
+P16,Mockup,das,f,23,Abitur,Bachelor/ Handelsschule,Turkish,equally both,equally both,less than 2 days/week,4 good ,okay,Turkic
+P17,Laptop,das,f,23,Abitur,Abitur/ Gundschule,Turkish,equally both,equally both,less than 2 days/week,4 good ,okay,Turkic
+P17,Call,der,f,23,Abitur,Abitur/ Gundschule,Turkish,equally both,equally both,less than 2 days/week,4 good ,okay,Turkic
+P17,Meeting,das,f,23,Abitur,Abitur/ Gundschule,Turkish,equally both,equally both,less than 2 days/week,4 good ,okay,Turkic
+P17,Update,das,f,23,Abitur,Abitur/ Gundschule,Turkish,equally both,equally both,less than 2 days/week,4 good ,okay,Turkic
+P17,Feedback,das,f,23,Abitur,Abitur/ Gundschule,Turkish,equally both,equally both,less than 2 days/week,4 good ,okay,Turkic
+P17,Influencer,der,f,23,Abitur,Abitur/ Gundschule,Turkish,equally both,equally both,less than 2 days/week,4 good ,okay,Turkic
+P17,Content,das,f,23,Abitur,Abitur/ Gundschule,Turkish,equally both,equally both,less than 2 days/week,4 good ,okay,Turkic
+P17,Design,das,f,23,Abitur,Abitur/ Gundschule,Turkish,equally both,equally both,less than 2 days/week,4 good ,okay,Turkic
+P17,Tool,der,f,23,Abitur,Abitur/ Gundschule,Turkish,equally both,equally both,less than 2 days/week,4 good ,okay,Turkic
+P17,Workshop,der,f,23,Abitur,Abitur/ Gundschule,Turkish,equally both,equally both,less than 2 days/week,4 good ,okay,Turkic
+P17,Agency,die,f,23,Abitur,Abitur/ Gundschule,Turkish,equally both,equally both,less than 2 days/week,4 good ,okay,Turkic
+P17,Agreement,das,f,23,Abitur,Abitur/ Gundschule,Turkish,equally both,equally both,less than 2 days/week,4 good ,okay,Turkic
+P17,Mockup,der,f,23,Abitur,Abitur/ Gundschule,Turkish,equally both,equally both,less than 2 days/week,4 good ,okay,Turkic
+P18,Laptop,das,m,40,Abitur,Abitur,Persian,equally both,more german,2-3 days/week,3 okay,okay,Indo-European
+P18,Call,der,m,40,Abitur,Abitur,Persian,equally both,more german,2-3 days/week,3 okay,okay,Indo-European
+P18,Meeting,die,m,40,Abitur,Abitur,Persian,equally both,more german,2-3 days/week,3 okay,okay,Indo-European
+P18,Update,das,m,40,Abitur,Abitur,Persian,equally both,more german,2-3 days/week,3 okay,okay,Indo-European
+P18,Feedback,das,m,40,Abitur,Abitur,Persian,equally both,more german,2-3 days/week,3 okay,okay,Indo-European
+P18,Influencer,der,m,40,Abitur,Abitur,Persian,equally both,more german,2-3 days/week,3 okay,okay,Indo-European
+P18,Content,der,m,40,Abitur,Abitur,Persian,equally both,more german,2-3 days/week,3 okay,okay,Indo-European
+P18,Design,das,m,40,Abitur,Abitur,Persian,equally both,more german,2-3 days/week,3 okay,okay,Indo-European
+P18,Tool,das,m,40,Abitur,Abitur,Persian,equally both,more german,2-3 days/week,3 okay,okay,Indo-European
+P18,Workshop,der,m,40,Abitur,Abitur,Persian,equally both,more german,2-3 days/week,3 okay,okay,Indo-European
+P18,Agency,der,m,40,Abitur,Abitur,Persian,equally both,more german,2-3 days/week,3 okay,okay,Indo-European
+P18,Agreement,das,m,40,Abitur,Abitur,Persian,equally both,more german,2-3 days/week,3 okay,okay,Indo-European
+P18,Mockup,das,m,40,Abitur,Abitur,Persian,equally both,more german,2-3 days/week,3 okay,okay,Indo-European
+P19,Laptop,der,d,26,Abitur,Bachelor,Singhalese,equally both,more german,5 days/week,4 good ,very good,Indo-European
+P19,Call,der,d,26,Abitur,Bachelor,Singhalese,equally both,more german,5 days/week,4 good ,very good,Indo-European
+P19,Meeting,das,d,26,Abitur,Bachelor,Singhalese,equally both,more german,5 days/week,4 good ,very good,Indo-European
+P19,Update,das,d,26,Abitur,Bachelor,Singhalese,equally both,more german,5 days/week,4 good ,very good,Indo-European
+P19,Feedback,das,d,26,Abitur,Bachelor,Singhalese,equally both,more german,5 days/week,4 good ,very good,Indo-European
+P19,Influencer,der,d,26,Abitur,Bachelor,Singhalese,equally both,more german,5 days/week,4 good ,very good,Indo-European
+P19,Content,der,d,26,Abitur,Bachelor,Singhalese,equally both,more german,5 days/week,4 good ,very good,Indo-European
+P19,Design,das,d,26,Abitur,Bachelor,Singhalese,equally both,more german,5 days/week,4 good ,very good,Indo-European
+P19,Tool,das,d,26,Abitur,Bachelor,Singhalese,equally both,more german,5 days/week,4 good ,very good,Indo-European
+P19,Workshop,der,d,26,Abitur,Bachelor,Singhalese,equally both,more german,5 days/week,4 good ,very good,Indo-European
+P19,Agency,die,d,26,Abitur,Bachelor,Singhalese,equally both,more german,5 days/week,4 good ,very good,Indo-European
+P19,Agreement,das,d,26,Abitur,Bachelor,Singhalese,equally both,more german,5 days/week,4 good ,very good,Indo-European
+P19,Mockup,das,d,26,Abitur,Bachelor,Singhalese,equally both,more german,5 days/week,4 good ,very good,Indo-European
+P20,Laptop,der,f,22,Abitur,,Turkish,equally both,more german,2-3 days/week,4 good ,very good,Turkic
+P20,Call,der,f,22,Abitur,,Turkish,equally both,more german,2-3 days/week,4 good ,very good,Turkic
+P20,Meeting,das,f,22,Abitur,,Turkish,equally both,more german,2-3 days/week,4 good ,very good,Turkic
+P20,Update,das,f,22,Abitur,,Turkish,equally both,more german,2-3 days/week,4 good ,very good,Turkic
+P20,Feedback,das,f,22,Abitur,,Turkish,equally both,more german,2-3 days/week,4 good ,very good,Turkic
+P20,Influencer,der,f,22,Abitur,,Turkish,equally both,more german,2-3 days/week,4 good ,very good,Turkic
+P20,Content,der,f,22,Abitur,,Turkish,equally both,more german,2-3 days/week,4 good ,very good,Turkic
+P20,Design,das,f,22,Abitur,,Turkish,equally both,more german,2-3 days/week,4 good ,very good,Turkic
+P20,Tool,das,f,22,Abitur,,Turkish,equally both,more german,2-3 days/week,4 good ,very good,Turkic
+P20,Workshop,der,f,22,Abitur,,Turkish,equally both,more german,2-3 days/week,4 good ,very good,Turkic
+P20,Agency,die,f,22,Abitur,,Turkish,equally both,more german,2-3 days/week,4 good ,very good,Turkic
+P20,Agreement,das,f,22,Abitur,,Turkish,equally both,more german,2-3 days/week,4 good ,very good,Turkic
+P20,Mockup,das,f,22,Abitur,,Turkish,equally both,more german,2-3 days/week,4 good ,very good,Turkic
+P21,Laptop,der,f,27,Fachabitur,,Turkish,equally both,more german,never ,4 good ,bad,Turkic
+P21,Call,der,f,27,Fachabitur,,Turkish,equally both,more german,never ,4 good ,bad,Turkic
+P21,Meeting,das,f,27,Fachabitur,,Turkish,equally both,more german,never ,4 good ,bad,Turkic
+P21,Update,das,f,27,Fachabitur,,Turkish,equally both,more german,never ,4 good ,bad,Turkic
+P21,Feedback,das,f,27,Fachabitur,,Turkish,equally both,more german,never ,4 good ,bad,Turkic
+P21,Influencer,der,f,27,Fachabitur,,Turkish,equally both,more german,never ,4 good ,bad,Turkic
+P21,Content,der,f,27,Fachabitur,,Turkish,equally both,more german,never ,4 good ,bad,Turkic
+P21,Design,das,f,27,Fachabitur,,Turkish,equally both,more german,never ,4 good ,bad,Turkic
+P21,Tool,das,f,27,Fachabitur,,Turkish,equally both,more german,never ,4 good ,bad,Turkic
+P21,Workshop,der,f,27,Fachabitur,,Turkish,equally both,more german,never ,4 good ,bad,Turkic
+P21,Agency,die,f,27,Fachabitur,,Turkish,equally both,more german,never ,4 good ,bad,Turkic
+P21,Agreement,das,f,27,Fachabitur,,Turkish,equally both,more german,never ,4 good ,bad,Turkic
+P21,Mockup,das,f,27,Fachabitur,,Turkish,equally both,more german,never ,4 good ,bad,Turkic
+P22,Laptop,der,f,22,Realschulabschluss,,Turkish,more L1,more german,less than 2 days/week,4 good ,okay,Turkic
+P22,Call,der,f,22,Realschulabschluss,,Turkish,more L1,more german,less than 2 days/week,4 good ,okay,Turkic
+P22,Meeting,das,f,22,Realschulabschluss,,Turkish,more L1,more german,less than 2 days/week,4 good ,okay,Turkic
+P22,Update,das,f,22,Realschulabschluss,,Turkish,more L1,more german,less than 2 days/week,4 good ,okay,Turkic
+P22,Feedback,das,f,22,Realschulabschluss,,Turkish,more L1,more german,less than 2 days/week,4 good ,okay,Turkic
+P22,Influencer,der,f,22,Realschulabschluss,,Turkish,more L1,more german,less than 2 days/week,4 good ,okay,Turkic
+P22,Content,der,f,22,Realschulabschluss,,Turkish,more L1,more german,less than 2 days/week,4 good ,okay,Turkic
+P22,Design,das,f,22,Realschulabschluss,,Turkish,more L1,more german,less than 2 days/week,4 good ,okay,Turkic
+P22,Tool,das,f,22,Realschulabschluss,,Turkish,more L1,more german,less than 2 days/week,4 good ,okay,Turkic
+P22,Workshop,der,f,22,Realschulabschluss,,Turkish,more L1,more german,less than 2 days/week,4 good ,okay,Turkic
+P22,Agency,die,f,22,Realschulabschluss,,Turkish,more L1,more german,less than 2 days/week,4 good ,okay,Turkic
+P22,Agreement,das,f,22,Realschulabschluss,,Turkish,more L1,more german,less than 2 days/week,4 good ,okay,Turkic
+P22,Mockup,das,f,22,Realschulabschluss,,Turkish,more L1,more german,less than 2 days/week,4 good ,okay,Turkic
+P23,Laptop,das,m,23,Abitur,,Lingala,,more german,2-3 days/week,3 okay,okay,Niger-Congo
+P23,Call,der,m,23,Abitur,,Lingala,,more german,2-3 days/week,3 okay,okay,Niger-Congo
+P23,Meeting,das,m,23,Abitur,,Lingala,,more german,2-3 days/week,3 okay,okay,Niger-Congo
+P23,Update,das,m,23,Abitur,,Lingala,,more german,2-3 days/week,3 okay,okay,Niger-Congo
+P23,Feedback,das,m,23,Abitur,,Lingala,,more german,2-3 days/week,3 okay,okay,Niger-Congo
+P23,Influencer,der,m,23,Abitur,,Lingala,,more german,2-3 days/week,3 okay,okay,Niger-Congo
+P23,Content,der,m,23,Abitur,,Lingala,,more german,2-3 days/week,3 okay,okay,Niger-Congo
+P23,Design,das,m,23,Abitur,,Lingala,,more german,2-3 days/week,3 okay,okay,Niger-Congo
+P23,Tool,das,m,23,Abitur,,Lingala,,more german,2-3 days/week,3 okay,okay,Niger-Congo
+P23,Workshop,der,m,23,Abitur,,Lingala,,more german,2-3 days/week,3 okay,okay,Niger-Congo
+P23,Agency,die,m,23,Abitur,,Lingala,,more german,2-3 days/week,3 okay,okay,Niger-Congo
+P23,Agreement,das,m,23,Abitur,,Lingala,,more german,2-3 days/week,3 okay,okay,Niger-Congo
+P23,Mockup,der,m,23,Abitur,,Lingala,,more german,2-3 days/week,3 okay,okay,Niger-Congo
+P24,Laptop,der,m,23,Abitur,,Lingala,more L1,more german,less than 2 days/week,4 good ,very good,Niger-Congo
+P24,Call,der,m,23,Abitur,,Lingala,more L1,more german,less than 2 days/week,4 good ,very good,Niger-Congo
+P24,Meeting,das,m,23,Abitur,,Lingala,more L1,more german,less than 2 days/week,4 good ,very good,Niger-Congo
+P24,Update,das,m,23,Abitur,,Lingala,more L1,more german,less than 2 days/week,4 good ,very good,Niger-Congo
+P24,Feedback,das,m,23,Abitur,,Lingala,more L1,more german,less than 2 days/week,4 good ,very good,Niger-Congo
+P24,Influencer,der,m,23,Abitur,,Lingala,more L1,more german,less than 2 days/week,4 good ,very good,Niger-Congo
+P24,Content,der,m,23,Abitur,,Lingala,more L1,more german,less than 2 days/week,4 good ,very good,Niger-Congo
+P24,Design,das,m,23,Abitur,,Lingala,more L1,more german,less than 2 days/week,4 good ,very good,Niger-Congo
+P24,Tool,das,m,23,Abitur,,Lingala,more L1,more german,less than 2 days/week,4 good ,very good,Niger-Congo
+P24,Workshop,der,m,23,Abitur,,Lingala,more L1,more german,less than 2 days/week,4 good ,very good,Niger-Congo
+P24,Agency,die,m,23,Abitur,,Lingala,more L1,more german,less than 2 days/week,4 good ,very good,Niger-Congo
+P24,Agreement,das,m,23,Abitur,,Lingala,more L1,more german,less than 2 days/week,4 good ,very good,Niger-Congo
+P24,Mockup,das,m,23,Abitur,,Lingala,more L1,more german,less than 2 days/week,4 good ,very good,Niger-Congo
+P25,Laptop,das,m,23,Abitur,,Lingala,more L1,more german,less than 2 days/week,4 good ,okay,Niger-Congo
+P25,Call,der,m,23,Abitur,,Lingala,more L1,more german,less than 2 days/week,4 good ,okay,Niger-Congo
+P25,Meeting,das,m,23,Abitur,,Lingala,more L1,more german,less than 2 days/week,4 good ,okay,Niger-Congo
+P25,Update,das,m,23,Abitur,,Lingala,more L1,more german,less than 2 days/week,4 good ,okay,Niger-Congo
+P25,Feedback,das,m,23,Abitur,,Lingala,more L1,more german,less than 2 days/week,4 good ,okay,Niger-Congo
+P25,Influencer,der,m,23,Abitur,,Lingala,more L1,more german,less than 2 days/week,4 good ,okay,Niger-Congo
+P25,Content,der,m,23,Abitur,,Lingala,more L1,more german,less than 2 days/week,4 good ,okay,Niger-Congo
+P25,Design,das,m,23,Abitur,,Lingala,more L1,more german,less than 2 days/week,4 good ,okay,Niger-Congo
+P25,Tool,das,m,23,Abitur,,Lingala,more L1,more german,less than 2 days/week,4 good ,okay,Niger-Congo
+P25,Workshop,der,m,23,Abitur,,Lingala,more L1,more german,less than 2 days/week,4 good ,okay,Niger-Congo
+P25,Agency,die,m,23,Abitur,,Lingala,more L1,more german,less than 2 days/week,4 good ,okay,Niger-Congo
+P25,Agreement,das,m,23,Abitur,,Lingala,more L1,more german,less than 2 days/week,4 good ,okay,Niger-Congo
+P25,Mockup,das,m,23,Abitur,,Lingala,more L1,more german,less than 2 days/week,4 good ,okay,Niger-Congo
+P26,Laptop,der,m,24,Abitur,Ausbildug,Persian,more german,more german,less than 2 days/week,3 okay,okay,Indo-European
+P26,Call,der,m,24,Abitur,Ausbildug,Persian,more german,more german,less than 2 days/week,3 okay,okay,Indo-European
+P26,Meeting,das,m,24,Abitur,Ausbildug,Persian,more german,more german,less than 2 days/week,3 okay,okay,Indo-European
+P26,Update,das,m,24,Abitur,Ausbildug,Persian,more german,more german,less than 2 days/week,3 okay,okay,Indo-European
+P26,Feedback,das,m,24,Abitur,Ausbildug,Persian,more german,more german,less than 2 days/week,3 okay,okay,Indo-European
+P26,Influencer,der,m,24,Abitur,Ausbildug,Persian,more german,more german,less than 2 days/week,3 okay,okay,Indo-European
+P26,Content,der,m,24,Abitur,Ausbildug,Persian,more german,more german,less than 2 days/week,3 okay,okay,Indo-European
+P26,Design,das,m,24,Abitur,Ausbildug,Persian,more german,more german,less than 2 days/week,3 okay,okay,Indo-European
+P26,Tool,das,m,24,Abitur,Ausbildug,Persian,more german,more german,less than 2 days/week,3 okay,okay,Indo-European
+P26,Workshop,der,m,24,Abitur,Ausbildug,Persian,more german,more german,less than 2 days/week,3 okay,okay,Indo-European
+P26,Agency,die,m,24,Abitur,Ausbildug,Persian,more german,more german,less than 2 days/week,3 okay,okay,Indo-European
+P26,Agreement,das,m,24,Abitur,Ausbildug,Persian,more german,more german,less than 2 days/week,3 okay,okay,Indo-European
+P26,Mockup,das,m,24,Abitur,Ausbildug,Persian,more german,more german,less than 2 days/week,3 okay,okay,Indo-European
+P27,Laptop,der,f,24,Bachelor,,Turkish,more L1,equally both,less than 2 days/week,2 bad,okay,Turkic
+P27,Call,der,f,24,Bachelor,,Turkish,more L1,equally both,less than 2 days/week,2 bad,okay,Turkic
+P27,Meeting,das,f,24,Bachelor,,Turkish,more L1,equally both,less than 2 days/week,2 bad,okay,Turkic
+P27,Update,das,f,24,Bachelor,,Turkish,more L1,equally both,less than 2 days/week,2 bad,okay,Turkic
+P27,Feedback,das,f,24,Bachelor,,Turkish,more L1,equally both,less than 2 days/week,2 bad,okay,Turkic
+P27,Influencer,der,f,24,Bachelor,,Turkish,more L1,equally both,less than 2 days/week,2 bad,okay,Turkic
+P27,Content,der,f,24,Bachelor,,Turkish,more L1,equally both,less than 2 days/week,2 bad,okay,Turkic
+P27,Design,das,f,24,Bachelor,,Turkish,more L1,equally both,less than 2 days/week,2 bad,okay,Turkic
+P27,Tool,das,f,24,Bachelor,,Turkish,more L1,equally both,less than 2 days/week,2 bad,okay,Turkic
+P27,Workshop,der,f,24,Bachelor,,Turkish,more L1,equally both,less than 2 days/week,2 bad,okay,Turkic
+P27,Agency,der,f,24,Bachelor,,Turkish,more L1,equally both,less than 2 days/week,2 bad,okay,Turkic
+P27,Agreement,die,f,24,Bachelor,,Turkish,more L1,equally both,less than 2 days/week,2 bad,okay,Turkic
+P27,Mockup,das,f,24,Bachelor,,Turkish,more L1,equally both,less than 2 days/week,2 bad,okay,Turkic
+P28,Laptop,der,f,23,Bachelor,,Turkish,equally both,equally both,never ,3 okay,bad,Turkic
+P28,Call,der,f,23,Bachelor,,Turkish,equally both,equally both,never ,3 okay,bad,Turkic
+P28,Meeting,das,f,23,Bachelor,,Turkish,equally both,equally both,never ,3 okay,bad,Turkic
+P28,Update,das,f,23,Bachelor,,Turkish,equally both,equally both,never ,3 okay,bad,Turkic
+P28,Feedback,das,f,23,Bachelor,,Turkish,equally both,equally both,never ,3 okay,bad,Turkic
+P28,Influencer,der,f,23,Bachelor,,Turkish,equally both,equally both,never ,3 okay,bad,Turkic
+P28,Content,der,f,23,Bachelor,,Turkish,equally both,equally both,never ,3 okay,bad,Turkic
+P28,Design,das,f,23,Bachelor,,Turkish,equally both,equally both,never ,3 okay,bad,Turkic
+P28,Tool,das,f,23,Bachelor,,Turkish,equally both,equally both,never ,3 okay,bad,Turkic
+P28,Workshop,der,f,23,Bachelor,,Turkish,equally both,equally both,never ,3 okay,bad,Turkic
+P28,Agency,die,f,23,Bachelor,,Turkish,equally both,equally both,never ,3 okay,bad,Turkic
+P28,Agreement,das,f,23,Bachelor,,Turkish,equally both,equally both,never ,3 okay,bad,Turkic
+P28,Mockup,das,f,23,Bachelor,,Turkish,equally both,equally both,never ,3 okay,bad,Turkic
