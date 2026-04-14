@@ -1,4 +1,4 @@
-#Artikelzuweisung von Englischen 'Loanwords' (Lehnwörtern) im deutschen Sprachgebrauch
+# Artikelzuweisung von Englischen 'Loanwords' (Lehnwörtern) im deutschen Sprachgebrauch
 
 In dieser Arbeit habe ich recherchiert, wie Personen mit verschiednen Muttersprachen Lehnwörter aus dem Englischen im Deutschen nutzen un welche Artikel sie den Englischen Wörtern zuweisen.
 
